@@ -38,6 +38,7 @@ public class MainActivity extends ActionBarActivity {
             getSupportFragmentManager().beginTransaction().add(R.id.container, new PlaceholderFragment()).commit();
             //github test
             //github test2
+            //github test3
         }
     }
 
